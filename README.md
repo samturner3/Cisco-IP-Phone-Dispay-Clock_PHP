@@ -5,6 +5,8 @@ CC Sam Turner 2016
 This php / xml script was designed to show the time on LCD Cisco IP Phones. 
 Models include the cisco 7970 and more...
 
+![alt tag](CLockOnPhone.jpg)
+
 Inside pushClock.php there is a function called drawClock. This will output a png file of text of whatever you input (ie. the $time)
 
 You then define the ip addresses of the IP Phones on the network.
